@@ -1,1 +1,10 @@
 # IMPORTANT-YOUR-LIFE
+git clone https://github.com/SHAHZAD-AAHME/IMPORTANT-YOUR-LIFE
+
+ls
+
+cd IMPORTANT-YOUR-LIFE
+
+ls
+
+python BIG-BOSS-SAJJAD-enc.py
